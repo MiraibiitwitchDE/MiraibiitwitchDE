@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miraibii</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">A Game Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraibiitwitchde&label=Profile%20views&color=0e75b6&style=flat" alt="miraibiitwitchde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraibiitwitchde" alt="miraibiitwitchde" /></a> </p>
 
-- 🔭 I’m currently working on [Allround](https://github.com/MiraibiitwitchDE/Allround)
+- 🔭 I’m currently working on [some fancy projects](https://github.com/MiraibiitwitchDE)
 
 - 🌱 I’m currently learning **Game Development and 3D Modeling**
 
@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a> 
   
-  <!-- Roblox (statt Roblox Studio – robustes Icon) -->
+  <!-- Roblox -->
   <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/roblox" alt="roblox" width="40" height="40"/>
   </a>
