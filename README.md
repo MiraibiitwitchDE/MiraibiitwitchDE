@@ -66,10 +66,10 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
   </a> 
   
-  <!-- Roblox Studio -->
-<a href="https://create.roblox.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://static.wikia.nocookie.net/logopedia/images/7/71/Roblox_Studio_2022_present.png" alt="roblox studio" width="40" height="40"/> 
-</a> 
+  <!-- Roblox (statt Roblox Studio – robustes Icon) -->
+  <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/roblox" alt="roblox" width="40" height="40"/>
+  </a>
 
   
   <!-- Lua / Luau -->
