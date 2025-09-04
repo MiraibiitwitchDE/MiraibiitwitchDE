@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Allround](https://github.com/MiraibiitwitchDE/Allround)
 
-- 🌱 I’m currently learning **Java, Spigot API and C#**
+- 🌱 I’m currently learning **Game Development and 3D Modeling**
 
 - 💬 Ask me about **my current Projects**
 
-- 📫 How to reach me **MiraibiitwitchDE#9999**
+- 📫 How to reach me **Miraibii**
 
-- ⚡ Fun fact **tree shrews are the alcoholics of the animal kingdom**
+- ⚡ Fun fact **Every great game started as a small idea written in messy code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
