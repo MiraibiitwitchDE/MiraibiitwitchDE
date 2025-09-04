@@ -67,9 +67,10 @@
   </a> 
   
   <!-- Roblox Studio -->
-  <a href="https://create.roblox.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Roblox_Studio_logo_2022_present.svg" alt="roblox studio" width="40" height="40"/> 
-  </a> 
+<a href="https://create.roblox.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://static.wikia.nocookie.net/logopedia/images/7/71/Roblox_Studio_2022_present.png" alt="roblox studio" width="40" height="40"/> 
+</a> 
+
   
   <!-- Lua / Luau -->
   <a href="https://luau-lang.org/" target="_blank" rel="noreferrer"> 
